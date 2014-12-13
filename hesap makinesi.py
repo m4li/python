@@ -3,9 +3,9 @@
 from __future__ import division
 print"""
     TOPLAMA [1]
-    ÇIKARMA [2]
-    ÇARPMA  [3]
-    BÖLME   [4]
+    CIKARMA [2]
+    CARPMA  [3]
+    BOLME   [4]
     """
 islem = raw_input(" LUTFEN YAPACAGINIZ ISLEMIN NUMARASINI GIRINIZ:")
 if islem == "1":
